@@ -1,0 +1,20 @@
+table td{
+    text-align: center;
+}
+
+.img-inline{
+    display: wrap;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+h2, h1{
+    color: #025157;
+    text-align: center;
+}
+
+.tools-section .card-deck img{
+    height: 80px;
+    width: 50px;
+    margin-top: 20px;
+}
